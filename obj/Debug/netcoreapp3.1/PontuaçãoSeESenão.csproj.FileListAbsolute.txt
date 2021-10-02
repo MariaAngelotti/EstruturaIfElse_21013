@@ -1,0 +1,13 @@
+C:\Projetos\ams\1ano\estruturasifelse\PontuaçãoSeESenão\bin\Debug\netcoreapp3.1\PontuaçãoSeESenão.exe
+C:\Projetos\ams\1ano\estruturasifelse\PontuaçãoSeESenão\bin\Debug\netcoreapp3.1\PontuaçãoSeESenão.deps.json
+C:\Projetos\ams\1ano\estruturasifelse\PontuaçãoSeESenão\bin\Debug\netcoreapp3.1\PontuaçãoSeESenão.runtimeconfig.json
+C:\Projetos\ams\1ano\estruturasifelse\PontuaçãoSeESenão\bin\Debug\netcoreapp3.1\PontuaçãoSeESenão.runtimeconfig.dev.json
+C:\Projetos\ams\1ano\estruturasifelse\PontuaçãoSeESenão\bin\Debug\netcoreapp3.1\PontuaçãoSeESenão.dll
+C:\Projetos\ams\1ano\estruturasifelse\PontuaçãoSeESenão\bin\Debug\netcoreapp3.1\PontuaçãoSeESenão.pdb
+C:\Projetos\ams\1ano\estruturasifelse\PontuaçãoSeESenão\obj\Debug\netcoreapp3.1\PontuaçãoSeESenão.csprojAssemblyReference.cache
+C:\Projetos\ams\1ano\estruturasifelse\PontuaçãoSeESenão\obj\Debug\netcoreapp3.1\PontuaçãoSeESenão.AssemblyInfoInputs.cache
+C:\Projetos\ams\1ano\estruturasifelse\PontuaçãoSeESenão\obj\Debug\netcoreapp3.1\PontuaçãoSeESenão.AssemblyInfo.cs
+C:\Projetos\ams\1ano\estruturasifelse\PontuaçãoSeESenão\obj\Debug\netcoreapp3.1\PontuaçãoSeESenão.csproj.CoreCompileInputs.cache
+C:\Projetos\ams\1ano\estruturasifelse\PontuaçãoSeESenão\obj\Debug\netcoreapp3.1\PontuaçãoSeESenão.dll
+C:\Projetos\ams\1ano\estruturasifelse\PontuaçãoSeESenão\obj\Debug\netcoreapp3.1\PontuaçãoSeESenão.pdb
+C:\Projetos\ams\1ano\estruturasifelse\PontuaçãoSeESenão\obj\Debug\netcoreapp3.1\PontuaçãoSeESenão.genruntimeconfig.cache
